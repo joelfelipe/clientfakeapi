@@ -528,27 +528,5 @@
             "statusId": 3,
             "statusNome": "Sucesso"
         }
-    ],
-    "statusCliente": [
-        {
-            "statusId": 0,
-            "statusNome": "Pendente"
-        },
-        {
-            "statusId": 1,
-            "statusNome": "Sem Erro"
-        },
-        {
-            "statusId": 2,
-            "statusNome": "Com Erro"
-        },
-        {
-            "statusId": 3,
-            "statusNome": "Falha"
-        },
-        {
-            "statusId": 4,
-            "statusNome": "Sucesso"
-        }
     ]
 }
