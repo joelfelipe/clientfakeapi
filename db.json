@@ -1,5 +1,5 @@
 {
-	"solicitacoes":[
+	"solicitacoes": [
 		{
 			"id": 1,
 			"assessor": "Assessor José",
@@ -505,7 +505,7 @@
 		},
 		{
 			"id": 30,
-			"nome": "João Guilheme Nepomuceno",
+			"nome": "JOão Guilheme Nepomuceno",
 			"sicad": 12345630,
 			"cpf": "98454403043",
 			"status": 3
@@ -513,42 +513,42 @@
 	],
 	"statusSolicitacao": [
 		{
-			"statusId": 0,
+			"statusId" : 0,
 			"statusNome": "Pendente"
 		},
 		{
-			"statusId": 1,
-			"statusNome": "Reenviada"
+			"statusId" : 1,
+			"statusNome": "Reenviado"
 		},
 		{
-			"statusId": 2,
+			"statusId" : 2,
 			"statusNome": "Falha"
 		},
 		{
-			"statusId": 3,
+			"statusId" : 3,
 			"statusNome": "Sucesso"
 		},
 	],
 	"statusCliente": [
 		{
-			"statusId": 0,
+			"statusId" : 0,
 			"statusNome": "Pendente"
 		},
 		{
-			"statusId": 1,
+			"statusId" : 1,
 			"statusNome": "Sem Erro"
 		},
 		{
-			"statusId": 2,
+			"statusId" : 2,
 			"statusNome": "Com Erro"
 		},
 		{
-			"statusId": 3,
+			"statusId" : 3,
 			"statusNome": "Falha"
 		},
 		{
-			"statusId": 4,
+			"statusId" : 4,
 			"statusNome": "Sucesso"
-		},
+		}
 	]
 }
