@@ -32,7 +32,7 @@
 		{
 			"id": 2,
 			"assessor": "Assessora Maria",
-			"coordenador": "Everaldo Cortês",
+			"coordenador": "Isadora Paula Caldeira de Gomes",
 			"status": 0,
 			"clientes": [
 				{
@@ -53,8 +53,8 @@
 		},
 		{
 			"id": 3,
-			"assessor": "Assessor Carlos",
-			"coordenador": "Everaldo Cortês",
+			"assessor": "Assessor José",
+			"coordenador": "Benjamin Godói de Arruda",
 			"status": 0,
 			"clientes": [
 				{
@@ -75,8 +75,8 @@
 		},
 		{
 			"id": 4,
-			"assessor": "Assessora Neiva",
-			"coordenador": "Everaldo Cortês",
+			"assessor": "Assessora Maria",
+			"coordenador": "Oséas Faro da Luz",
 			"status": 1,
 			"clientes": [
 				{
@@ -97,8 +97,8 @@
 		},
 		{
 			"id": 5,
-			"assessor": "Assessor Pedro",
-			"coordenador": "Everaldo Cortês",
+			"assessor": "Assessor José",
+			"coordenador": "Matheus Victor Colaço",
 			"status": 1,
 			"clientes": [
 				{
@@ -126,8 +126,8 @@
 		},
 		{
 			"id": 6,
-			"assessor": "Assessora Rita",
-			"coordenador": "Everaldo Cortês",
+			"assessor": "Assessora Maria",
+			"coordenador": "Jácomo Barreto Vale",
 			"status": 1,
 			"clientes": [
 				{
@@ -149,7 +149,7 @@
 		{
 			"id": 7,
 			"assessor": "Assessor Márcio",
-			"coordenador": "Everaldo Cortês",
+			"coordenador": "Hortência Michele Ferreira",
 			"status": 2,
 			"clientes": [
 				{
@@ -171,7 +171,7 @@
 		{
 			"id": 8,
 			"assessor": "Assessora Socorro",
-			"coordenador": "Everaldo Cortês",
+			"coordenador": "Kelly Mirela Padilha Santana Fragoso",
 			"status": 2,
 			"clientes": [
 				{
@@ -200,7 +200,7 @@
 		{
 			"id": 9,
 			"assessor": "Assessor Yuri",
-			"coordenador": "Everaldo Cortês",
+			"coordenador": "Clotilde Delvalle",
 			"status": 2,
 			"clientes": [
 				{
@@ -222,7 +222,7 @@
 		{
 			"id": 10,
 			"assessor": "Assessora Clíssia",
-			"coordenador": "Everaldo Cortês",
+			"coordenador": "Camila Nepomuceno",
 			"status": 3,
 			"clientes": [
 				{
@@ -272,7 +272,7 @@
 		{
 			"id": 11,
 			"assessor": "Assessor Caique",
-			"coordenador": "Everaldo Cortês",
+			"coordenador": "Graziele Gomes",
 			"status": 3,
 			"clientes": [
 				{
