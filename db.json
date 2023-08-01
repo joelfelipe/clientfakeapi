@@ -299,46 +299,6 @@
             ]
         }
     ],
-    "stsolicitacao": [
-        {
-            "stNome": "Pendente",
-            "stId": 0
-        },
-        {
-            "stNome": "Reenviado",
-            "stId": 1
-        },
-        {
-            "stNome": "Falha",
-            "stId": 2
-        },
-        {
-            "stNome": "Sucesso",
-            "stId": 3
-        }
-    ],
-    "stcliente": [
-        {
-            "stNome": "Pendente",
-            "stId": 0
-        },
-        {
-            "stNome": "Sem Erro",
-            "stId": 1
-        },
-        {
-            "stNome": "Com Erro",
-            "stId": 2
-        },
-        {
-            "stNome": "Falha",
-            "stId": 3
-        },
-        {
-            "stNome": "Sucesso",
-            "stId": 4
-        }
-    ],
     "clientes": [
         {
             "id": 1,
